@@ -1,0 +1,26 @@
+## Generated Questions for "A cartoon cat in a professor outfit writing a book with the title 'What if a cat wrote a book?'"
+
+**About {2} [cartoon, style]:**
+
+**Q:** Is the image realistic or cartoon-style? 
+**Choices:** Realistic, Cartoon
+**A:** Cartoon
+
+**About {4} [in, spatial] & {6} [professor outfit, entity]:**
+
+**Q:** Where is the cat and what is it wearing?
+**Choices:** 
+    a) In a library, wearing a hat
+    b) In a classroom, wearing a professor outfit
+    c) On a couch, wearing a sweater
+**A:** b) In a classroom, wearing a professor outfit
+
+**About {7} [writing, activity] & {9} [book, entity] & {11} [title, other]:**
+
+**Q:** What is the cat doing and what is the title of the book? 
+**Choices:** 
+    a) Reading a book titled "Meowser's Adventures" 
+    b) Writing a book titled "What if a cat wrote a book?" 
+    c) Sleeping on a book titled "The Purrfect Nap"
+**A:** b) Writing a book titled "What if a cat wrote a book?" 
+

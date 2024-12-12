@@ -1,0 +1,40 @@
+## Questions for "A cartoon cat in a professor outfit writing a book with the title 'What if a cat wrote a book?'"
+
+Here are some multiple-choice questions based on the image description, focusing on different concept types:
+
+**About {3} & {15} - Entity (Cat):**
+
+* **Q:** Is the main character in the image a cat? 
+    * **Choices:** Yes, No
+    * **A:** Yes
+
+**About {2} - Style (Cartoon):**
+
+* **Q:** Is the image described as realistic or cartoon-like?
+    * **Choices:** Realistic, Cartoon-like
+    * **A:** Cartoon-like
+
+**About {6} - Entity (Professor Outfit):**
+
+* **Q:** What is the cat wearing in the image?
+    * **Choices:** A hat, A professor outfit, A dress
+    * **A:** A professor outfit
+
+**About {7} & {16} - Activity (Writing):**
+
+* **Q:** What is the cat doing in the image?
+    * **Choices:** Sleeping, Writing, Eating 
+    * **A:** Writing
+
+**About {9} & {18} - Entity (Book):**
+
+* **Q:** What is the cat writing in? 
+    * **Choices:** A diary, A book, A letter
+    * **A:** A book
+
+**About {11} & {12}-{13}-{14}-{15}-{16}-{17}-{18} - Other (Title):**
+
+* **Q:** What is the title of the book in the image?
+    * **Choices:** "What if a cat wrote a book?", "Meowser's Adventures", "The Purrfect Crime"
+    * **A:** "What if a cat wrote a book?" 
+
